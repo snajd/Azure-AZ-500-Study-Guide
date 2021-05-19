@@ -3,7 +3,13 @@
 ## Configure Azure Active Directory for workloads
 
 * [Create App registration](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app)
+    [ ] -  Labbat
+    [x] -  Läst
+    [x] -  Förstått
 * [Configure App registration permission scopes](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent) | [v1.0](https://docs.microsoft.com/en-us/azure/active-directory/develop/v1-permissions-and-consent)
+    [ ] -  Labbat
+    [x] -  Läst
+    [ ] -  Förstått
 * [Manage App registration permission consent](https://docs.microsoft.com/en-us/azure/active-directory/develop/consent-framework)
 * [Configure Multi-Factor Authentication settings](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings)
 * [Manage Azure AD Directory Groups](https://docs.microsoft.com/en-us/microsoft-365/enterprise/identity-use-group-management)
